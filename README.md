@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Shreya 👋
 
-<!--
-**shreya-ssalian/shreya-ssalian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI & Data Science student passionate about building practical solutions with Machine Learning, Artificial Intelligence, and Full-Stack Development.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- B.Tech in AI & Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+- AI & Machine Learning projects
+- Full-Stack web applications
+- Learning Data Structures & Algorithms
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- C
+- C++
+- Java
+- JavaScript
+
+**Frameworks & Tools**
+- React
+- FastAPI
+- Flask
+- MongoDB
+- SQLite
+- Git
+- HTML & CSS
+
+## 🌱 Interests
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- Full-Stack Development
+- Hackathons
+
+## 📌 Featured Projects
+- 🚢 SeaPulse – AI-powered Maritime Surveillance Platform
+- 🌐 Placement Portal
+- 🤖 Machine Learning Projects
+
+## 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/shreya-s-salian
