@@ -40,5 +40,9 @@ I'm an AI & Data Science student passionate about building practical solutions w
 - 🌐 Placement Portal
 - 🤖 Machine Learning Projects
 
+## 🐍 My Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/shreya-ssalian/shreya-ssalian/output/github-snake.svg)
+
 ## 📫 Connect with Me
 - LinkedIn: https://linkedin.com/in/shreya-s-salian
