@@ -21,14 +21,6 @@ I enjoy exploring the intersection of AI, software development, and creative pro
 - ✧ Enjoy experimenting with ideas and learning by building
 - ✧ Always curious about what I can create next
 
-
-<p align="center">
-  <img src="./coding-cat.gif"
-       width="180"
-       alt="Purple coding cat">
-</p>
-
-
 ---
 
 ### things I work with
@@ -78,6 +70,12 @@ An open-source project where I contributed.
 
 <p align="center">
   <i>Made with curiosity, a little creativity, and lots of electrolytes. ☁️</i>
+  <p align="center">
+  <img src="./coding-cat.gif"
+       width="180"
+       alt="Purple coding cat">
+</p>
+
 </p>
 
 <p align="center">
