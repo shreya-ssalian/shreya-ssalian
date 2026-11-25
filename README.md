@@ -23,8 +23,6 @@ I enjoy exploring the intersection of AI, software development, and creative pro
 
 ---
 
----
-
 ### things I work with ✧
 
 **Languages**
@@ -60,31 +58,57 @@ I enjoy exploring the intersection of AI, software development, and creative pro
 ![VS Code](https://img.shields.io/badge/VS_Code-DCCBFA?style=flat-square&logo=visualstudiocode&logoColor=49336F)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DCCBFA?style=flat-square&logo=postgresql&logoColor=49336F)
 ![MongoDB](https://img.shields.io/badge/MongoDB-DCCBFA?style=flat-square&logo=mongodb&logoColor=49336F)
+
 ---
 
 ### selected creations ✧
 
 A few things I've enjoyed building:
 
-**01 · SeaPulse**
+<table>
+<tr>
+<td width="50%">
+
+### 🌊 SeaPulse
 
 Maritime surveillance using AIS data, with vessel tracking and risk detection.
 
-**02 · BrandBloom**
+</td>
+<td width="50%">
+
+### 🌱 BrandBloom
 
 An AI-powered brand governance platform with document analysis, guideline management and human-in-the-loop approvals.
 
-**03 · Pixel Quest**
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎮 Pixel Quest
 
 A React-based gaming platform featuring Wordle, aptitude challenges, quizzes and leaderboards.
 
-**04 · SmartFood AI**
+</td>
+<td width="50%">
+
+### 🍃 SmartFood AI
 
 A food-label analysis application designed to make understanding food ingredients easier.
 
-**05 · Tenali**
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🐾 Tenali
 
 An open-source project where I contributed.
+
+</td>
+</tr>
+</table>
+
 
 
 ## 💜 My GitHub Contributions
