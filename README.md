@@ -65,7 +65,7 @@ A food-label analysis application designed to make understanding food ingredient
 
 **05 · Tenali**
 
-An open-source project where I contributed to the development of a dog mascot widget.
+An open-source project where I contributed.
 
 
 <p align="center">
