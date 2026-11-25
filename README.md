@@ -83,13 +83,11 @@ An open-source project where I contributed.
 </p>
 
 
-<h3 align="center">✦ My Contribution Universe</h3>
+
+## 💜 My GitHub Contributions
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/shreya-ssalian/shreya-ssalian/profile-3d/profile-night-rainbow.svg"
-    width="100%"
-    alt="3D GitHub contribution calendar"
-  />
+  <img src="https://ghchart.rshah.org/9B72CF/shreya-ssalian" alt="Shreya's GitHub Contributions" width="100%" />
 </p>
+
 
