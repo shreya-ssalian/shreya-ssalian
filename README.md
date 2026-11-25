@@ -121,11 +121,19 @@ An open-source project where I contributed.
 
 <p align="center">
   <i>Made with curiosity, a little creativity, and lots of electrolytes. ☁️</i>
-  <p align="center">
-  <img src="./coding-cat.gif"
-       width="180"
-       alt="Purple coding cat">
-</p>
+  
+---
+
+<div align="center">
+
+### a little companion ✧
+
+<img src="./coding-cat.gif" width="180" alt="Purple coding cat" />
+
+*Keeping me company while I build things.* ☁️
+
+</div>
+
 
 </p>
 
