@@ -1,48 +1,91 @@
-# Hi there, I'm Shreya 👋
+# ✿ Hello, I'm Shreya!
 
-I'm an AI & Data Science student passionate about building practical solutions with Machine Learning, Artificial Intelligence, and Full-Stack Development.
+<p align="center">
+  <i>Exploring ideas, building things, and learning along the way.</i>
+</p>
 
-## 🎓 Education
-- B.Tech in AI & Data Science
+<p align="center">
+  AI & Data Science Undergraduate · Developer · Curious Creator
+</p>
 
-## 🚀 Currently Working On
-- AI & Machine Learning projects
-- Full-Stack web applications
-- Learning Data Structures & Algorithms
+---
 
-## 🛠️ Tech Stack
+### a little about me
+
+I'm an undergraduate student in Artificial Intelligence and Data Science, interested in building meaningful things with technology.
+
+I enjoy exploring the intersection of AI, software development, and creative problem-solving. From experimenting with machine learning to building web applications, I like turning ideas into something tangible.
+
+- ✧ Currently exploring **AI/ML and Software Engineering**
+- ✧ Interested in **intelligent systems, web development and open source**
+- ✧ Enjoy experimenting with ideas and learning by building
+- ✧ Always curious about what I can create next
+
+---
+
+### things I work with
 
 **Languages**
-- Python
-- C
-- C++
-- Java
-- JavaScript
 
-**Frameworks & Tools**
-- React
-- FastAPI
-- Flask
-- MongoDB
-- SQLite
-- Git
-- HTML & CSS
+`Python` · `C` · `C++` · `Java` · `JavaScript` · `SQL`
 
-## 🌱 Interests
-- Machine Learning
-- Artificial Intelligence
-- Data Science
-- Full-Stack Development
-- Hackathons
+**Development**
 
-## 📌 Featured Projects
-- 🚢 SeaPulse – AI-powered Maritime Surveillance Platform
-- 🌐 Placement Portal
-- 🤖 Machine Learning Projects
+`React` · `Node.js` · `Express.js` · `Flask` · `HTML` · `CSS`
 
-## 🐍 My Contribution Graph
+**AI & Data Science**
 
-![Snake animation](https://raw.githubusercontent.com/shreya-ssalian/shreya-ssalian/output/github-snake.svg)
+`NumPy` · `Pandas` · `Scikit-learn` · `NLP` · `Machine Learning`
 
-## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/shreya-s-salian
+**Tools**
+
+`Git` · `GitHub` · `VS Code` · `PostgreSQL` · `MongoDB`
+
+---
+
+### selected creations ✧
+
+A few things I've enjoyed building:
+
+**01 · SeaPulse**
+
+Maritime surveillance using AIS data, with vessel tracking and risk detection.
+
+**02 · BrandBloom**
+
+An AI-powered brand governance platform with document analysis, guideline management and human-in-the-loop approvals.
+
+**03 · Pixel Quest**
+
+A React-based gaming platform featuring Wordle, aptitude challenges, quizzes and leaderboards.
+
+**04 · SmartFood AI**
+
+A food-label analysis application designed to make understanding food ingredients easier.
+
+**05 · Tenali**
+
+An open-source project where I contributed to the development of a dog mascot widget.
+
+---
+
+### the numbers, quietly
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=shreya-ssalian&show_icons=true&hide_border=true&bg_color=F7F3ED&title_color=80677D&text_color=655D59&icon_color=B58A9B" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-ssalian&layout=compact&hide_border=true&bg_color=F7F3ED&title_color=80677D&text_color=655D59" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-ssalian&hide_border=true&background=F7F3ED&ring=B58A9B&fire=B58A9B&currStreakLabel=80677D&sideLabels=655D59&dates=998E87" />
+</p>
+
+---
+
+<p align="center">
+  <i>Made with curiosity, a little creativity, and lots of coffee. ☁️</i>
+</p>
+
+<p align="center">
+  <sub>Thanks for stopping by. Stay curious. ✿</sub>
+</p>
