@@ -69,7 +69,7 @@ An open-source project where I contributed to the development of a dog mascot wi
 
 
 <p align="center">
-  <i>Made with curiosity, a little creativity, and lots of coffee. ☁️</i>
+  <i>Made with curiosity, a little creativity, and lots of electrolytes. ☁️</i>
 </p>
 
 <p align="center">
