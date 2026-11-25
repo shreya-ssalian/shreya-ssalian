@@ -23,24 +23,43 @@ I enjoy exploring the intersection of AI, software development, and creative pro
 
 ---
 
-### things I work with
+---
+
+### things I work with ✧
 
 **Languages**
 
-`Python` · `C` · `C++` · `Java` · `JavaScript` · `SQL`
+![Python](https://img.shields.io/badge/Python-B9A0E8?style=flat-square&logo=python&logoColor=282039)
+![C](https://img.shields.io/badge/C-B9A0E8?style=flat-square&logo=c&logoColor=282039)
+![C++](https://img.shields.io/badge/C++-B9A0E8?style=flat-square&logo=cplusplus&logoColor=282039)
+![Java](https://img.shields.io/badge/Java-B9A0E8?style=flat-square&logo=openjdk&logoColor=282039)
+![JavaScript](https://img.shields.io/badge/JavaScript-B9A0E8?style=flat-square&logo=javascript&logoColor=282039)
+![SQL](https://img.shields.io/badge/SQL-B9A0E8?style=flat-square&logo=postgresql&logoColor=282039)
 
 **Development**
 
-`React` · `Node.js` · `Express.js` · `Flask` · `HTML` · `CSS`
+![React](https://img.shields.io/badge/React-DCCBFA?style=flat-square&logo=react&logoColor=49336F)
+![Node.js](https://img.shields.io/badge/Node.js-DCCBFA?style=flat-square&logo=nodedotjs&logoColor=49336F)
+![Express.js](https://img.shields.io/badge/Express.js-DCCBFA?style=flat-square&logo=express&logoColor=49336F)
+![Flask](https://img.shields.io/badge/Flask-DCCBFA?style=flat-square&logo=flask&logoColor=49336F)
+![HTML5](https://img.shields.io/badge/HTML5-DCCBFA?style=flat-square&logo=html5&logoColor=49336F)
+![CSS3](https://img.shields.io/badge/CSS3-DCCBFA?style=flat-square&logo=css3&logoColor=49336F)
 
 **AI & Data Science**
 
-`NumPy` · `Pandas` · `Scikit-learn` · `NLP` · `Machine Learning`
+![NumPy](https://img.shields.io/badge/NumPy-E8DDFB?style=flat-square&logo=numpy&logoColor=49336F)
+![Pandas](https://img.shields.io/badge/Pandas-E8DDFB?style=flat-square&logo=pandas&logoColor=49336F)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-E8DDFB?style=flat-square&logo=scikitlearn&logoColor=49336F)
+![NLP](https://img.shields.io/badge/NLP-E8DDFB?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-E8DDFB?style=flat-square)
 
 **Tools**
 
-`Git` · `GitHub` · `VS Code` · `PostgreSQL` · `MongoDB`
-
+![Git](https://img.shields.io/badge/Git-DCCBFA?style=flat-square&logo=git&logoColor=49336F)
+![GitHub](https://img.shields.io/badge/GitHub-DCCBFA?style=flat-square&logo=github&logoColor=49336F)
+![VS Code](https://img.shields.io/badge/VS_Code-DCCBFA?style=flat-square&logo=visualstudiocode&logoColor=49336F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DCCBFA?style=flat-square&logo=postgresql&logoColor=49336F)
+![MongoDB](https://img.shields.io/badge/MongoDB-DCCBFA?style=flat-square&logo=mongodb&logoColor=49336F)
 ---
 
 ### selected creations ✧
