@@ -67,20 +67,6 @@ A food-label analysis application designed to make understanding food ingredient
 
 An open-source project where I contributed to the development of a dog mascot widget.
 
----
-
-### the numbers, quietly
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=shreya-ssalian&show_icons=true&hide_border=true&bg_color=F7F3ED&title_color=80677D&text_color=655D59&icon_color=B58A9B" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-ssalian&layout=compact&hide_border=true&bg_color=F7F3ED&title_color=80677D&text_color=655D59" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-ssalian&hide_border=true&background=F7F3ED&ring=B58A9B&fire=B58A9B&currStreakLabel=80677D&sideLabels=655D59&dates=998E87" />
-</p>
-
----
 
 <p align="center">
   <i>Made with curiosity, a little creativity, and lots of coffee. ☁️</i>
