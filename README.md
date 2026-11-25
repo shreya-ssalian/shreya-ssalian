@@ -68,6 +68,14 @@ A food-label analysis application designed to make understanding food ingredient
 An open-source project where I contributed.
 
 
+## 💜 My GitHub Contributions
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/9B72CF/shreya-ssalian" alt="Shreya's GitHub Contributions" width="100%" />
+</p>
+
+
+
 <p align="center">
   <i>Made with curiosity, a little creativity, and lots of electrolytes. ☁️</i>
   <p align="center">
@@ -84,10 +92,5 @@ An open-source project where I contributed.
 
 
 
-## 💜 My GitHub Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/9B72CF/shreya-ssalian" alt="Shreya's GitHub Contributions" width="100%" />
-</p>
 
 
