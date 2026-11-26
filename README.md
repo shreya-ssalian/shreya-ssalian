@@ -5,21 +5,22 @@
 </p>
 
 <p align="center">
-  AI & Data Science Undergraduate · Developer · Curious Creator
+  AI & Data Science Undergraduate · Developer · Research Enthusiast
 </p>
 
 ---
 
 ### a little about me
 
-I'm an undergraduate student in Artificial Intelligence and Data Science, interested in building meaningful things with technology.
+I'm someone who loves exploring ideas, solving problems, and understanding how things work. I enjoy the process of turning curiosity into something tangible, whether it's experimenting with AI, building applications, or working on ideas that challenge me to think differently.
 
-I enjoy exploring the intersection of AI, software development, and creative problem-solving. From experimenting with machine learning to building web applications, I like turning ideas into something tangible.
+I believe in learning by doing, embracing challenges, and getting a little better with every project. There's always something new to discover, something to create, and something to improve.
 
-- ✧ Currently exploring **AI/ML and Software Engineering**
-- ✧ Interested in **intelligent systems, web development and open source**
-- ✧ Enjoy experimenting with ideas and learning by building
-- ✧ Always curious about what I can create next
+- ✧ Exploring **AI/ML, Data Science & Software Engineering**
+- ✧ Interested in **intelligent systems, creative problem-solving and open source**
+- ✧ Love building projects, experimenting with ideas and learning new technologies
+- ✧ Enjoy challenges that push me beyond what I already know
+- ✧ Always curious about what I can build next
 
 ---
 
